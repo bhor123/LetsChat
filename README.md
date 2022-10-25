@@ -1,10 +1,10 @@
-# AndroidPracticePlace
 
-I dump all my small practice project here !
+Simple chat app that can be used to interact with friends and others.
+
 
 *Open each project for more details*
 
-## Steps for cloning each project
+## Steps for cloning the project
 
 * Download the zip file.
 * Extract the zip file and open whichever project you want to open in the IDE.
